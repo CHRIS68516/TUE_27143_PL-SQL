@@ -80,7 +80,10 @@ This system aims to:
 <img width="960" alt="update" src="https://github.com/user-attachments/assets/e9b41a5e-f14e-4b52-b347-c114c3320573" />
 
 
+                                 ***Triggers****
+Prevents double bookings for doctors and rooms
 
+Automatically reduces medication stock upon prescription
 
 
 
