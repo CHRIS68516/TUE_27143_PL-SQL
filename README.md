@@ -37,6 +37,7 @@ This system aims to:
 
 ***🗃️ Database Design and  💻 PL/SQL Implementation*** 
 
+
 ***Conceptual Diagram***
 
 <img width="761" alt="model of appointments" src="https://github.com/user-attachments/assets/3b78d9df-a42e-436c-a23d-1de4bc583773" />
@@ -120,6 +121,19 @@ Automatically reduces medication stock upon prescription
 <img width="954" alt="result Get Patient Info" src="https://github.com/user-attachments/assets/b7294704-a7d5-46b7-ba34-9c5ca22d7d95" />
 
 <img width="960" alt="result patient" src="https://github.com/user-attachments/assets/a835cac6-de80-4d13-897b-2b4306d83556" />
+
+
+***Procedures***
+
+<img width="946" alt="PROC_AddAppointment" src="https://github.com/user-attachments/assets/77e44cd6-b3a8-4848-aab2-643dea9617b6" />
+
+<img width="953" alt="procedures of PROC_UpdatePatientPhone" src="https://github.com/user-attachments/assets/dc56cb9b-3e8d-412b-b37e-ccd8fb1cb5fc" />
+
+***Packages***
+
+<img width="959" alt="package" src="https://github.com/user-attachments/assets/9a1d03b5-97e8-43e7-b0da-a4e3315cd985" />
+
+<img width="960" alt="package body hospital" src="https://github.com/user-attachments/assets/28f84360-4bbe-4387-9c7b-093711b29896" />
 
 
 
