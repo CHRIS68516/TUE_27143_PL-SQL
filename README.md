@@ -8,7 +8,7 @@ The ****Hospital Appointment and Management System**** is a comprehensive Oracle
 
 ***🚩 Problem Definition***
 
-Modern hospitals face several inefficiencies, including:
+***odern hospitals face several inefficiencies, including:***
 
 Poorly managed appointment scheduling systems
 
@@ -21,6 +21,7 @@ Limited automation in staff and medication inventory management
 
 
 ***🎯 Project Objectives***
+
 This system aims to:
 
 ✅ Automate patient, staff, and appointment management
