@@ -37,6 +37,14 @@ This system aims to:
 
 ***🗃️ Database Design and  💻 PL/SQL Implementation*** 
 
+***DCL(Data Control Language)***
+
+***Pluggabl database***
+
+<img width="752" alt="pluggable database " src="https://github.com/user-attachments/assets/1e536fa3-e4c1-4a0e-873c-ff782e11e49f" />
+
+<img width="483" alt="pluggable database 2" src="https://github.com/user-attachments/assets/ca1a8ef8-9a37-4559-ad25-27f4635192aa" />
+
 
 ***Conceptual Diagram***
 
