@@ -55,7 +55,11 @@ This system aims to:
 
 <img width="960" alt="model of staff" src="https://github.com/user-attachments/assets/93ea3fe5-f297-43ca-b802-3959a1f24767" />
 
+*****Creating Tables******
 
+<img width="960" alt="create table" src="https://github.com/user-attachments/assets/d3ef0ca0-b28c-4ad1-a061-09db74dbc48a" />
+
+<img width="958" alt="create" src="https://github.com/user-attachments/assets/82b97311-ecad-4c14-8b5f-c918de150e87" />
 
 
 
