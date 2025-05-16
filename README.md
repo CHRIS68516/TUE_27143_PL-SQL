@@ -144,14 +144,38 @@ Automatically reduces medication stock upon prescription
 <img width="960" alt="package body hospital" src="https://github.com/user-attachments/assets/28f84360-4bbe-4387-9c7b-093711b29896" />
 
 
+***🧪 Technologies Used***
+
+ ***Oracle Database 18c***
+
+*** PL/SQL***
+
+ ***SQL Developer***
+
+
+***🚀 How to Run the Project****
+
+Clone the repository or download the SQL scripts.
+
+Connect to your Oracle database using SQL Developer.
+
+Execute the SQL scripts to create tables, views, procedures, functions, and triggers.
+
+Populate the tables with sample data (if available).
+
+Use the procedures and views to interact with the system.
 
 
 
+🙋‍♂️ Contributors
 
+NAME:IRADUKUNDA KUBANA CHRISTIAN
 
+Student at Adventist University of Central Africa
 
+ID: 27143
 
-
+GROUP:B
 
 
 
