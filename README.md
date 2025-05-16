@@ -61,6 +61,8 @@ This system aims to:
 
 <img width="958" alt="create" src="https://github.com/user-attachments/assets/82b97311-ecad-4c14-8b5f-c918de150e87" />
 
+***DML(Data Manipulation Language)***
 
+**INSERT**
 
 
