@@ -35,3 +35,27 @@ This system aims to:
 
 
 ***🗃️ Database Design***
+
+***Conceptual Diagram***
+
+<img width="761" alt="model of appointments" src="https://github.com/user-attachments/assets/3b78d9df-a42e-436c-a23d-1de4bc583773" />
+
+<img width="960" alt="model of staff" src="https://github.com/user-attachments/assets/151c7a1e-ca4c-47b5-a05b-a282e43a90bf" />
+
+<img width="939" alt="model of doctors" src="https://github.com/user-attachments/assets/1914c675-0571-4b73-98a7-14daf63e916e" />
+
+<img width="670" alt="model of insurance" src="https://github.com/user-attachments/assets/a1b7ff4f-442d-4dab-8dad-d649971bf3d5" />
+
+<img width="841" alt="model of medical_records" src="https://github.com/user-attachments/assets/b40975f7-c236-4b5a-b08f-5f1109f6c9aa" />
+
+<img width="960" alt="model of patients" src="https://github.com/user-attachments/assets/6f797b01-f9fb-4ba9-a0aa-1a92c4f27112" />
+
+<img width="960" alt="model of prescripitions" src="https://github.com/user-attachments/assets/2cb4d25f-dee2-460a-bf50-bdddb6a92162" />
+
+<img width="960" alt="model of staff" src="https://github.com/user-attachments/assets/93ea3fe5-f297-43ca-b802-3959a1f24767" />
+
+
+
+
+
+
