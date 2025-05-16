@@ -18,3 +18,20 @@ Complexities in insurance processing and billing
 
 Limited automation in staff and medication inventory management
 
+
+
+***🎯 Project Objectives***
+This system aims to:
+
+✅ Automate patient, staff, and appointment management
+
+✅ Improve access to and tracking of medical records
+
+✅ Streamline billing and insurance integration
+
+✅ Manage medication prescriptions and inventory automatically
+
+✅ Provide real-time views for better hospital decision-making
+
+
+***🗃️ Database Design***
