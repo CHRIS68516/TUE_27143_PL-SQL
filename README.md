@@ -79,12 +79,54 @@ This system aims to:
 
 <img width="960" alt="update" src="https://github.com/user-attachments/assets/e9b41a5e-f14e-4b52-b347-c114c3320573" />
 
- ***Triggers****                             
+ ***Triggers***                            
 Prevents double bookings for doctors and rooms
 
 Automatically reduces medication stock upon prescription
 
 <img width="950" alt="triggers" src="https://github.com/user-attachments/assets/393323cf-c1c7-42e7-9814-80d4542b7457" />
+
+<img width="960" alt="compound trigger" src="https://github.com/user-attachments/assets/61553555-8b0a-48e8-90d7-69b4b25b0fc8" />
+
+
+***Functions***
+
+<img width="960" alt="function call" src="https://github.com/user-attachments/assets/abab0a58-eeee-4b26-b916-3fc4e6335397" />
+
+***Function getbillingsummary***
+
+<img width="958" alt="function getbillingsummary" src="https://github.com/user-attachments/assets/677969a6-f57f-444d-8574-9e0ae97d09aa" />
+
+***Calculate Total Bill for a Patient***
+
+<img width="959" alt="Calculate Total Bill for a Patient" src="https://github.com/user-attachments/assets/57a4bad2-30fa-42a9-b9d2-d11a18e664c4" />
+
+***Calculate Total Bill for a Patient1***
+
+<img width="960" alt="Calculate Total Bill for a Patient1" src="https://github.com/user-attachments/assets/1cc79333-72d0-496d-8bea-efa48a970749" />
+
+***Check Medication Stock***
+
+<img width="960" alt="Check Medication Stock" src="https://github.com/user-attachments/assets/34afec41-5ddd-4690-8dad-529aae09b150" />
+
+***RESULT OF FUNCTIONS***
+
+<img width="960" alt="result Check Medication Stock" src="https://github.com/user-attachments/assets/668fa6ec-71b4-4d81-962b-067ece764436" />
+
+<img width="960" alt="result doctor function " src="https://github.com/user-attachments/assets/bd1082fe-1428-43db-94f9-c34adab1b787" />
+
+<img width="960" alt="result function" src="https://github.com/user-attachments/assets/311de5a8-b8bf-462d-95fd-b1f33b0baf19" />
+
+<img width="954" alt="result Get Patient Info" src="https://github.com/user-attachments/assets/b7294704-a7d5-46b7-ba34-9c5ca22d7d95" />
+
+<img width="960" alt="result patient" src="https://github.com/user-attachments/assets/a835cac6-de80-4d13-897b-2b4306d83556" />
+
+
+
+
+
+
+
 
 
 
