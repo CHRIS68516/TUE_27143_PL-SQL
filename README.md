@@ -10,13 +10,13 @@ The ****Hospital Appointment and Management System**** is a comprehensive Oracle
 
 ***odern hospitals face several inefficiencies, including:***
 
-Poorly managed appointment scheduling systems
+✅Poorly managed appointment scheduling systems
 
-Unstructured and fragmented medical records
+✅Unstructured and fragmented medical records
 
-Complexities in insurance processing and billing
+✅Complexities in insurance processing and billing
 
-Limited automation in staff and medication inventory management
+✅Limited automation in staff and medication inventory management
 
 
 
@@ -146,24 +146,24 @@ Automatically reduces medication stock upon prescription
 
 ***🧪 Technologies Used***
 
- ***Oracle Database 18c***
+✅ ***Oracle Database 18c***
 
-*** PL/SQL***
+✅ PL/SQL***
 
- ***SQL Developer***
+✅ ***SQL Developer***
 
 
 ***🚀 How to Run the Project****
 
-Clone the repository or download the SQL scripts.
+✅Clone the repository or download the SQL scripts.
 
-Connect to your Oracle database using SQL Developer.
+✅Connect to your Oracle database using SQL Developer.
 
-Execute the SQL scripts to create tables, views, procedures, functions, and triggers.
+✅Execute the SQL scripts to create tables, views, procedures, functions, and triggers.
 
-Populate the tables with sample data (if available).
+✅Populate the tables with sample data (if available).
 
-Use the procedures and views to interact with the system.
+✅Use the procedures and views to interact with the system.
 
 
 
