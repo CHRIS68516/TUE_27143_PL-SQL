@@ -63,6 +63,26 @@ This system aims to:
 
 ***DML(Data Manipulation Language)***
 
-**INSERT**
+***INSERT INTO TABLES***
+
+<img width="960" alt="insert " src="https://github.com/user-attachments/assets/44f8d25d-2927-46e9-a119-7ed4112eedab" />
+
+***SELECT INTO TABLES***
+
+<img width="958" alt="select" src="https://github.com/user-attachments/assets/0b466256-2a76-4535-a4ea-3f163b71cc47" />
+
+***DELETE INTO TABLES***
+
+<img width="959" alt="delete" src="https://github.com/user-attachments/assets/964a0bd0-7fd1-4a9a-bedb-070fe91b9ff6" />
+
+***UPDATE INTO TABLES***
+
+<img width="960" alt="update" src="https://github.com/user-attachments/assets/e9b41a5e-f14e-4b52-b347-c114c3320573" />
+
+
+
+
+
+
 
 
