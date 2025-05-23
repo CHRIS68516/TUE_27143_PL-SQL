@@ -1,4 +1,4 @@
-***🏥 Hospital Appointment and Management System***
+## 🏥 Hospital Appointment and Management System ##
 
 
 ****📌 Project Overview****
