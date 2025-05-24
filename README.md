@@ -35,8 +35,7 @@ This system aims to:
 ✅ Provide real-time views for better hospital decision-making
 
 
-## PhaseII: Business Process Modeling (Related to Management Information Systems - 
-MIS) ##
+## PhaseII: Business Process Modeling (Related to Management Information Systems - MIS) ##
 
 
 ***🗃️ Database Design and  💻 PL/SQL Implementation*** 
