@@ -37,86 +37,18 @@ This system aims to:
 
 ## PhaseII: Business Process Modeling (Related to Management Information Systems - MIS) ##
 
-🧍‍♂️ 1. Patient (Top Lane)
-Start: The process begins when the patient initiates a request.
-
-Make appointment request: The patient makes a request for an appointment.
-
-Decision - Is doctor available?
-
-If No, the system schedules the appointment for later and stores it in the Appointment database.
-
-If Yes, the patient proceeds to see the doctor immediately.
-
-If the doctor is available, a Medical record is created or updated.
-
-👩‍⚕️ 2. Receptionist/Nurses (Second Lane)
-This lane mostly handles the decision logic and recording:
-
-Checks doctor availability.
-
-Records the appointment or consultation results into the Medical Record system.
-
-🖥️ 3. MIS System (Third Lane)
-The MIS system handles automation and data handling:
-
-Receives the scheduling request.
-
-Stores appointment data.
-
-Supports consultation processes.
-
-After consultation, it checks stock availability (likely for medications).
-
-🧾 4. Billing Department (Bottom Lane)
-If a medication or service is available (checked by MIS), the system:
-
-Issues a Bill.
-
-Generates a Summary.
-
-Proceeds to Process billing.
-
-If stock is not available, the process ends early.
-
-🔁 Key Decision Points
-Is doctor available?
-Controls whether the appointment happens now or is scheduled for later.
-
-Is stock available?
-If medication or required resources are not available, billing is skipped.
-
-✅ Output
-Appointment is scheduled.
-
-Medical record is updated.
-
-Bill is created if treatment/stock is available.
-
-Summary is printed.
-
-Billing is processed.
-
-📌 In Summary:
-This BPMN diagram models a healthcare appointment and billing workflow, showing interactions between:
-
-Patients
-
-Reception/Nurses
-
-MIS System (Medical Information System)
-
-Billing Department
-
+This BPMN diagram shows a healthcare workflow where a patient requests an appointment. If the doctor is unavailable, it's scheduled for later. If available, the patient is seen and a medical record is updated. The MIS system handles scheduling, consultations, and checks medication stock. If stock is available, the billing department generates a bill and processes payment. If not, the process ends. It involves patients, reception/nurses, the MIS system, and billing.
 
 ![BPMN IO](https://github.com/user-attachments/assets/245cb667-13df-4fb2-8a6b-f8b3efcf15f3)
 
 
 
-
 ## PhaseIII: Logical Model Design ##
 
+This diagram shows a hospital database structure with tables for Patients, Doctors, Appointments, Medical Records, Billing, Insurance, Medications, Prescriptions, Departments, and Staff. Each patient can have insurance, appointments with doctors, medical records, bills, and prescriptions. Prescriptions link doctors, patients, and medications. Staff members belong to departments. The system is designed to track all hospital operations efficiently through these connected entities.
+
 ![ERD D](https://github.com/user-attachments/assets/41866b70-ce51-407b-93b3-708418dea4fb)
+
 
 
 ***🗃️ Database Design and  💻 PL/SQL Implementation*** 
