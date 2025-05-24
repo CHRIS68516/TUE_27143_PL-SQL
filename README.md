@@ -37,6 +37,8 @@ This system aims to:
 
 ## PhaseII: Business Process Modeling (Related to Management Information Systems - MIS) ##
 
+![BPMN IO](https://github.com/user-attachments/assets/245cb667-13df-4fb2-8a6b-f8b3efcf15f3)
+
 
 
 
