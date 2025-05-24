@@ -108,6 +108,9 @@ This diagram shows a hospital database structure with tables for Patients, Docto
 
 <img width="960" alt="update" src="https://github.com/user-attachments/assets/e9b41a5e-f14e-4b52-b347-c114c3320573" />
 
+
+ ## PhaseVI: Database Interaction and Transactions ##
+
  ***Triggers***                            
 Prevents double bookings for doctors and rooms
 
@@ -162,6 +165,9 @@ Automatically reduces medication stock upon prescription
 <img width="959" alt="package" src="https://github.com/user-attachments/assets/9a1d03b5-97e8-43e7-b0da-a4e3315cd985" />
 
 <img width="960" alt="package body hospital" src="https://github.com/user-attachments/assets/28f84360-4bbe-4387-9c7b-093711b29896" />
+
+
+
 
 
 ***🧪 Technologies Used***
