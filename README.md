@@ -108,10 +108,6 @@ MIS System (Medical Information System)
 
 Billing Department
 
-It ensures logical flow, availability checks, medical records, and billing integration.
-
-Would you like me to recreate this in editable format (like Lucidchart, Draw.io, or Markdown) or link it to your SQL hospital schema?
-
 
 ![BPMN IO](https://github.com/user-attachments/assets/245cb667-13df-4fb2-8a6b-f8b3efcf15f3)
 
