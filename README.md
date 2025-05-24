@@ -42,6 +42,9 @@ This system aims to:
 
 ## PhaseIII: Logical Model Design ##
 
+![ERD D](https://github.com/user-attachments/assets/41866b70-ce51-407b-93b3-708418dea4fb)
+
+
 ***🗃️ Database Design and  💻 PL/SQL Implementation*** 
 
 ***DCL(Data Control Language)***
