@@ -38,6 +38,10 @@ This system aims to:
 ## PhaseII: Business Process Modeling (Related to Management Information Systems - MIS) ##
 
 
+
+
+## PhaseIII: Logical Model Design ##
+
 ***🗃️ Database Design and  💻 PL/SQL Implementation*** 
 
 ***DCL(Data Control Language)***
