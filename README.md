@@ -37,6 +37,82 @@ This system aims to:
 
 ## PhaseII: Business Process Modeling (Related to Management Information Systems - MIS) ##
 
+🧍‍♂️ 1. Patient (Top Lane)
+Start: The process begins when the patient initiates a request.
+
+Make appointment request: The patient makes a request for an appointment.
+
+Decision - Is doctor available?
+
+If No, the system schedules the appointment for later and stores it in the Appointment database.
+
+If Yes, the patient proceeds to see the doctor immediately.
+
+If the doctor is available, a Medical record is created or updated.
+
+👩‍⚕️ 2. Receptionist/Nurses (Second Lane)
+This lane mostly handles the decision logic and recording:
+
+Checks doctor availability.
+
+Records the appointment or consultation results into the Medical Record system.
+
+🖥️ 3. MIS System (Third Lane)
+The MIS system handles automation and data handling:
+
+Receives the scheduling request.
+
+Stores appointment data.
+
+Supports consultation processes.
+
+After consultation, it checks stock availability (likely for medications).
+
+🧾 4. Billing Department (Bottom Lane)
+If a medication or service is available (checked by MIS), the system:
+
+Issues a Bill.
+
+Generates a Summary.
+
+Proceeds to Process billing.
+
+If stock is not available, the process ends early.
+
+🔁 Key Decision Points
+Is doctor available?
+Controls whether the appointment happens now or is scheduled for later.
+
+Is stock available?
+If medication or required resources are not available, billing is skipped.
+
+✅ Output
+Appointment is scheduled.
+
+Medical record is updated.
+
+Bill is created if treatment/stock is available.
+
+Summary is printed.
+
+Billing is processed.
+
+📌 In Summary:
+This BPMN diagram models a healthcare appointment and billing workflow, showing interactions between:
+
+Patients
+
+Reception/Nurses
+
+MIS System (Medical Information System)
+
+Billing Department
+
+It ensures logical flow, availability checks, medical records, and billing integration.
+
+Would you like me to recreate this in editable format (like Lucidchart, Draw.io, or Markdown) or link it to your SQL hospital schema?
+
+
 ![BPMN IO](https://github.com/user-attachments/assets/245cb667-13df-4fb2-8a6b-f8b3efcf15f3)
 
 
