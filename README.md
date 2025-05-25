@@ -154,7 +154,7 @@ Automatically reduces medication stock upon prescription
 <img width="960" alt="result patient" src="https://github.com/user-attachments/assets/a835cac6-de80-4d13-897b-2b4306d83556" />
 
 
-***Procedures***
+## ***Procedures*** ##
 
 <img width="946" alt="PROC_AddAppointment" src="https://github.com/user-attachments/assets/77e44cd6-b3a8-4848-aab2-643dea9617b6" />
 
@@ -199,7 +199,7 @@ A static Holidays table will store these public holiday dates.
 
 
 
-***🧪 Technologies Used***
+## ***🧪 Technologies Used*** ##
 
 ✅ ***Oracle Database 18c***
 
@@ -208,7 +208,7 @@ A static Holidays table will store these public holiday dates.
 ✅ ***SQL Developer***
 
 
-***🚀 How to Run the Project****
+## ***🚀 How to Run the Project*** ##
 
 ✅Clone the repository or download the SQL scripts.
 
