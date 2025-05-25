@@ -168,6 +168,36 @@ Automatically reduces medication stock upon prescription
 
 
 
+## PhaseVII: Advanced Database Programming and Auditing ##
+
+
+1. Problem Statement Development
+Problem Statement:
+The Hospital Appointment and Management System currently allows unrestricted data manipulation by employees, posing potential risks to data integrity, especially during off-business periods. To improve operational control and data security, the system requires enhanced database logic to automate rules enforcement and track user activity.
+
+Justification for Advanced PL/SQL Features:
+Triggers: Needed to automatically prevent INSERT, UPDATE, or DELETE operations on weekdays and public holidays.
+
+Packages: Useful for grouping related auditing procedures and functions to streamline logic, promote reusability, and centralize audit logic.
+
+Auditing Mechanism: Essential to log sensitive changes (e.g., updates to patient records or billing info) and hold users accountable for actions taken in the system.
+
+Restriction Rules to be Implemented:
+Block any data manipulation (INSERT, UPDATE, DELETE) by employees:
+
+On weekdays (Monday to Friday)
+
+On public holidays in the upcoming month
+
+A static Holidays table will store these public holiday dates.
+
+
+**RESULT**
+
+<img width="742" alt="holiday_dates" src="https://github.com/user-attachments/assets/402acd82-bbf1-44ce-828c-696d30c1dcb7" />
+
+<img width="953" alt="holidays" src="https://github.com/user-attachments/assets/07147927-2435-4a1b-8064-1b6ac9349dcd" />
+
 
 
 ***🧪 Technologies Used***
