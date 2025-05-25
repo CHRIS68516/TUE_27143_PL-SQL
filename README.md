@@ -171,8 +171,7 @@ Automatically reduces medication stock upon prescription
 ## PhaseVII: Advanced Database Programming and Auditing ##
 
 
-1. Problem Statement Development
-Problem Statement:
+## 1. Problem Statement DevelopmentProblem Statement: ##
 The Hospital Appointment and Management System currently allows unrestricted data manipulation by employees, posing potential risks to data integrity, especially during off-business periods. To improve operational control and data security, the system requires enhanced database logic to automate rules enforcement and track user activity.
 
 Justification for Advanced PL/SQL Features:
@@ -223,15 +222,13 @@ A static Holidays table will store these public holiday dates.
 
 
 
-🙋‍♂️ Contributors
 
-NAME:IRADUKUNDA KUBANA CHRISTIAN
+## 🙋‍♂️ Contributors ##
 
-Student at Adventist University of Central Africa
+## NAME:IRADUKUNDA KUBANA CHRISTIAN ##
 
-ID: 27143
+## Student at Adventist University of Central Africa ##
 
-GROUP:B
+## ID: 27143 ##
 
-
-
+## GROUP:B  ##
